@@ -1,0 +1,7 @@
+pytrends
+comtradeapicall
+pandas
+numpy
+matplotlib
+requests
+jupyter
